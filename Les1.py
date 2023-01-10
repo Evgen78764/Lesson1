@@ -1,1 +1,11 @@
-"gfdewfggf"
+per1 = 125 #int
+per2 = 1350 #int
+per3 = 1.215 #float
+per4 = 7.62 #float
+per5 = "Lesson1" #str
+per6 = "Lesson2" #str
+per7 = True #bool
+per8 = True #bool
+per9 = False #bool
+per10 = False #bool
+per11 = None #Пустой тип
